@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/1bq9Vt7/github-banner.png)
+
 
 <h1 align="center">Xin chào 👋, mình là Nguyễn Văn Chiến</h1>
 <h3 align="center">💻 Sinh viên CNTT | Yêu thích lập trình & công nghệ</h3>
@@ -39,9 +38,5 @@
 
 ---
 
-## 🐍 Snake Animation
-![snake gif](https://github.com/DTH235617-NGUYENVANCHIEN/DTH235617-NGUYENVANCHIEN/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h3 align="center">💡 Cảm ơn đã ghé thăm GitHub của mình! 💡</h3>
